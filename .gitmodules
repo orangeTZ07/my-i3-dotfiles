@@ -1,0 +1,3 @@
+[submodule "polybar_themes"]
+	path = polybar_themes
+	url = git@github.com:orangeTZ07/polybar-themes.git
